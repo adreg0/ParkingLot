@@ -43,6 +43,8 @@ Arguments - Ticket No. allotted when parked
 ### **Exit**
 Terminates the program
 
+![im](/img/6.png)
+
 
 
 
